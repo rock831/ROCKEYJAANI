@@ -14,7 +14,7 @@
 <p align="center">
     ## 𝐃𝐞𝐩𝐥𝐨𝐲 𝐎𝐧 𝐇𝐞𝐫𝐨𝐤𝐮 🚀
 
-[![Deploy](https://telegra.ph//file/3923f01c415682870d8b7.jpg)](https://heroku.com/deploy?template=https://github.com/BANNA-XD143/BANNA-OP)</br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BANNA-XD143/TAGALLBOT-)</br>
 
 
 
