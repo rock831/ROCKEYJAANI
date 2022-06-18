@@ -4,11 +4,11 @@
 <p align="center">
     𝐒𝐔𝐏𝐏𝐎𝐑𝐓 𝐀𝐍𝐃 𝐔𝐏𝐃𝐀𝐓𝐄𝐒🎑
 
-<p align="center"><a href="https://t.me/LOVE_BIRDS_123"><img align="center" src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram">
+<p align="center"><a href="https://t.me/Wajahtumho"><img align="center" src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram">
 </p>
-<p align="center"><a href="https://t.me/ABOUT_BANNA_XD"><img align="center" src="https://img.shields.io/badge/Join-Official%20Channel-blue.svg?style=for-the-badge&logo=Telegram">
+<p align="center"><a href="https://t.me/https://t.me/Couple_vibz"><img align="center" src="https://img.shields.io/badge/Join-Official%20Channel-blue.svg?style=for-the-badge&logo=Telegram">
 </p>
-<p align="center"><a href="https://t.me/LOVE_BIRDS_123"><img src="https://telegra.ph//file/3923f01c415682870d8b7.jpg" width="300"></a></p>
+<p align="center"><a href="https://t.me/Wajahtumho"><img src="https://te.legra.ph/file/6aedef2098c9ed42c78ab.jpg" width="300"></a></p>
 
 
 <p align="center">
