@@ -14,7 +14,7 @@
 <p align="center">
     ## 𝐃𝐞𝐩𝐥𝐨𝐲 𝐎𝐧 𝐇𝐞𝐫𝐨𝐤𝐮 🚀
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BANNA-XD143/TAGALLBOT-)</br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rockey831/TAGALLBOT-)</br>
 
 
 
